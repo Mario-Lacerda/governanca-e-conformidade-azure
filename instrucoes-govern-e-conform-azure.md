@@ -66,3 +66,10 @@ Módulo
 6 Unidades
 Este módulo aborda as ferramentas que você pode usar para monitorar o ambiente do Azure.
 
+
+https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/scenarios/azure-virtual-desktop/landing-zone-citrix/citrix-security-governance-compliance
+
+https://learn.microsoft.com/pt-br/training/paths/describe-azure-management-governance/
+
+https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-security-governance-and-compliance
+
