@@ -4,7 +4,6 @@
 
 ####     Projeto ainda mais completo e abrangente com mais códigos para: Primeiros Passos com Governança e Conformidade na Azure
 
-**Projeto ainda mais completo e abrangente com mais códigos para: Primeiros Passos com Governança e Conformidade na Azure**
 
 **Introdução**
 
